@@ -21,3 +21,4 @@ drv8301.write(|w: ControlRegister1| {
     .pwm_mode(Flag::Enabled)
 }).unwrap();
 ```
+# drv8301
